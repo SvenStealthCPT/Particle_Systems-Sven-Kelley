@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 958
     height: 973
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 106
+  controlID: 42
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 226
     height: 923
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 188
     height: 546
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -392,7 +392,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -400,16 +400,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Partiles\Particle_Systems-Sven-Kelley
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3e110000
-    m_LastClickedID: 4414
-    m_ExpandedIDs: 00000000d8570000da570000dc570000de570000e057000000ca9a3bffffff7f
+    m_SelectedIDs: ea4d0000
+    m_LastClickedID: 19946
+    m_ExpandedIDs: 00000000ce4d0000d04d0000d24d0000d44d0000d64d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -437,7 +437,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d8570000da570000dc570000de570000e0570000
+    m_ExpandedIDs: 00000000ce4d0000d04d0000d24d0000d44d0000d64d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -577,9 +577,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 22e6ffffc8e5ffff
-      m_LastClickedID: -6712
-      m_ExpandedIDs: 74ebffff8c560000
+      m_SelectedIDs: aa4e0000
+      m_LastClickedID: 20138
+      m_ExpandedIDs: 6cf7ffff30fbffff3c4c00004e4e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -972,9 +972,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.2776513, y: -4.198462, z: 24.193907}
+    m_Target: {x: 3.2919283, y: -13.186171, z: 18.031761}
     speed: 2
-    m_Value: {x: 1.2776513, y: -4.198462, z: 24.193907}
+    m_Value: {x: 3.2919283, y: -13.186171, z: 18.031761}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1020,9 +1020,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.21009226, y: 0.5230349, z: -0.13484244, w: -0.8149364}
+    m_Target: {x: -0.3050164, y: 0.58501273, z: -0.25205165, w: -0.7079573}
     speed: 2
-    m_Value: {x: -0.21009141, y: 0.5230327, z: -0.13484189, w: -0.8149331}
+    m_Value: {x: -0.3053165, y: 0.5867514, z: -0.25384492, w: -0.705739}
   m_Size:
     m_Target: 14.918068
     speed: 2
