@@ -407,8 +407,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea4d0000
-    m_LastClickedID: 19946
+    m_SelectedIDs: e84d0000
+    m_LastClickedID: 19944
     m_ExpandedIDs: 00000000ce4d0000d04d0000d24d0000d44d0000d64d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -577,9 +577,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: aa4e0000
-      m_LastClickedID: 20138
-      m_ExpandedIDs: 6cf7ffff30fbffff3c4c00004e4e0000
+      m_SelectedIDs: a64e0000
+      m_LastClickedID: 20134
+      m_ExpandedIDs: 94f8ffff30fbffff684f00006c4f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -861,7 +861,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 1
+      displayed: 0
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -914,11 +914,11 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 600, y: 10}
+      snapOffset: {x: 302, y: 10}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: UnityEditor.SceneViewCameraOverlay
-      index: 11
+      index: 9
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -972,9 +972,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.2919283, y: -13.186171, z: 18.031761}
+    m_Target: {x: 6.8162594, y: -2.1727538, z: 12.760325}
     speed: 2
-    m_Value: {x: 3.2919283, y: -13.186171, z: 18.031761}
+    m_Value: {x: 6.8162594, y: -2.1727538, z: 12.760325}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1020,13 +1020,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3050164, y: 0.58501273, z: -0.25205165, w: -0.7079573}
+    m_Target: {x: 0.051155083, y: 0.94605166, z: -0.18568322, w: 0.26060602}
     speed: 2
-    m_Value: {x: -0.3053165, y: 0.5867514, z: -0.25384492, w: -0.705739}
+    m_Value: {x: 0.050875884, y: 0.94643, z: -0.18575749, w: 0.2591835}
   m_Size:
-    m_Target: 14.918068
+    m_Target: 0.8849569
     speed: 2
-    m_Value: 14.918068
+    m_Value: 0.88495696
   m_Ortho:
     m_Target: 0
     speed: 2
